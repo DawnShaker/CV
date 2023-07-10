@@ -1,0 +1,50 @@
+Curriculum Vitae: DevOps Engineer
+
+Personal Information:
+Name: Danylo Kukil
+Address: Kryvyi Rih, Dnipropetrovsk region, Ukraine, 50000
+Phone: +380989469636
+Email: kukildanylo@gmail.com
+
+Objective:
+Highly motivated 4th year Computer Science student with a passion for DevOps engineering. Seeking a position as a DevOps Engineer to utilize my skills and knowledge in a dynamic and collaborative work environment.
+
+Education:
+Bachelor of Science in Computer Science (Expected 2024)
+WSIZ University, Rzeszow, Poland
+
+Skills:
+
+Intermediate understanding of the Internet protocols and networking concepts.
+Basic proficiency in the Linux operating system and command-line tools.
+Experience with version control systems, including Git.
+Familiarity with scripting languages like Python or Bash.
+Knowledge of containerization technologies such as Docker.
+Understanding of continuous integration and deployment (CI/CD) processes.
+Strong problem-solving and troubleshooting skills.
+Excellent communication and collaboration abilities.
+
+Work Experience:
+Junior, Institute of Automation, Kryvyi Rih, Ukraine (Summer 2021 & summer 2022)
+
+Assisted in troubleshooting and resolving infrastructure and database-related issues to maintain smooth operations
+Participated in regular meetings and discussions, actively contributing ideas and solutions to improve overall system performance and reliability.
+Worked alongside the database team to maintain and optimize the company's databases, ensuring data integrity and high-performance levels.
+
+Certifications:
+
+AWS Certified Solutions Architect Associate (Udemy.com, Stephane Maarek; coming in 2023)
+
+Languages:
+
+Ukrainian (Native)
+Russian (Native)
+English (Upper-intermediate)
+Polish (Intermediate)
+
+Personal Qualities:
+
+Detail-oriented: Meticulous approach to tasks, ensuring accuracy and quality in deliverables.
+Strong problem solver: Proactively identifies and resolves issues to meet project objectives.
+Collaborative team player: Thrives in a collaborative environment, effectively communicating and collaborating with cross-functional teams.
+Fast learner: Quick to grasp new technologies and concepts, adapting to evolving industry trends.
